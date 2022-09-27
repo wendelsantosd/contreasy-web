@@ -12,7 +12,8 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     :root {
-      --white: #FFFFFF;
+      --white: #ffffff;
+      --yellow-600: #ffbc0d;
     }
 
     html {

@@ -18,7 +18,8 @@
     "types": ["node"],
     "baseUrl": "./src",
     "paths": {
-      "@routers/*": ["routers/*"]
+      "@routers/*": ["routers/*"],
+      "@assets/*": ["assets/*"]
     }
   },
   "include": ["src"],
